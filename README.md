@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep learning techniques**
 
-- 👨‍💻 All of my projects are available at [github.com/gagan303](github.com/gagan303)
+- 👨‍💻 All of my projects are available at [github.com/gaganv007](github.com/gaganv007)
 
 - 📫 How to reach me **gveginati@gmail.com**
 
